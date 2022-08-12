@@ -2,6 +2,8 @@
 
 ## [2022 Fall 项目汇总 在线文档](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
 
+### [2023 Fall 各学校GRE要求](https://www.1point3acres.com/bbs/thread-906889-1-1.html)
+
 ## 选校
 
 [SESV@CMU 介绍](https://www.1point3acres.com/bbs/thread-523072-1-1.html)
