@@ -1,12 +1,12 @@
 ## [CS Masters Application](https://csmsapp.github.io)
 
-## [项目介绍 在线文档](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
+## [2022 Fall 项目汇总 在线文档](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
 
 ## 选校
 
-[2021 Fall CS 院校项目](https://github.com/Bryceknows/Master-2023-Fall/blob/da7e9288b621a96cf266ade16b4f5174d58829f6/Programs/2021-Fall-375%E4%B8%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6MS+PHD%E9%A1%B9%E7%9B%AE%E5%AE%98%E7%BD%91%E5%AE%9E%E5%BD%95.pdf)
+[2021 Fall CS 项目汇总](https://github.com/Bryceknows/Master-2023-Fall/blob/da7e9288b621a96cf266ade16b4f5174d58829f6/Programs/2021-Fall-375%E4%B8%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6MS+PHD%E9%A1%B9%E7%9B%AE%E5%AE%98%E7%BD%91%E5%AE%9E%E5%BD%95.pdf)
 
-[2021 Fall ECE 院校项目](https://github.com/Bryceknows/Master-2023-Fall/blob/6946ece715910ad788ba9bfa3f96e11c551b94ed/Programs/2021-Fall-346%E4%B8%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B7%A5%E7%A8%8BMS+PHD%E9%A1%B9%E7%9B%AE%E5%AE%98%E7%BD%91%E5%AE%9E%E5%BD%95.pdf)
+[2021 Fall ECE 项目汇总](https://github.com/Bryceknows/Master-2023-Fall/blob/6946ece715910ad788ba9bfa3f96e11c551b94ed/Programs/2021-Fall-346%E4%B8%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B7%A5%E7%A8%8BMS+PHD%E9%A1%B9%E7%9B%AE%E5%AE%98%E7%BD%91%E5%AE%9E%E5%BD%95.pdf)
 
 
 ## 2022 Fall DP
