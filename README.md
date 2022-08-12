@@ -1,6 +1,4 @@
-## [CS Masters Application](https://csmsapp.github.io)
-
-## [2022 Fall 项目汇总 在线文档](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
+## [CS Masters Application](https://csmsapp.github.io)：[在线表格](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
 
 ## [2023 Fall 各学校GRE要求](https://www.1point3acres.com/bbs/thread-906889-1-1.html)：[在线表格](https://cqhy89kw13.feishu.cn/sheets/shtcnhyQEYS7dAP3XC6FCMJIavb?table=tblnJUIQLSu8zVcW&view=vewo99Mbw4)
 
