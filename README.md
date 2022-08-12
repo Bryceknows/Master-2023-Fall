@@ -1,5 +1,5 @@
 # 选校
-[2021Fall CS院校项目](Programs/2021Fall ：375个计算机科学MS+PHD项目官网实录（TOP100美国大学）.pdf)
+[2021 Fall CS院校项目]()
 
 
 # DP
