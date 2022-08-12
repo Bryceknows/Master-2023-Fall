@@ -4,7 +4,7 @@
 [2021 Fall ECE院校项目](https://github.com/Bryceknows/Master-2023-Fall/blob/6946ece715910ad788ba9bfa3f96e11c551b94ed/Programs/2021-Fall-346%E4%B8%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B7%A5%E7%A8%8BMS+PHD%E9%A1%B9%E7%9B%AE%E5%AE%98%E7%BD%91%E5%AE%9E%E5%BD%95.pdf)
 
 
-# DP - 2022 Fall
+# 2022 Fall DP
 [UCLA ad](https://github.com/Bryceknows/Master-Fall-2023/tree/main/DP/UCLA%20ad)
 
 [UCLA rej](https://github.com/Bryceknows/Master-Fall-2023/tree/main/DP/UCLA%20rej)
