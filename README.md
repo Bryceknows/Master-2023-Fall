@@ -1,6 +1,6 @@
 ## [CS Masters Application](https://csmsapp.github.io)
 
-## [DP 在线文档](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
+## [项目介绍 在线文档](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
 
 ## 选校
 
