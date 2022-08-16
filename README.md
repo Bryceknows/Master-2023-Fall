@@ -1,5 +1,4 @@
-## [GRE 要求](https://cqhy89kw13.feishu.cn/sheets/shtcnhyQEYS7dAP3XC6FCMJIavb?table=tblnJUIQLSu8zVcW&view=vewo99Mbw4)
-：[一亩三分地](https://www.1point3acres.com/bbs/thread-906889-1-1.html)
+## [GRE 要求](https://cqhy89kw13.feishu.cn/sheets/shtcnhyQEYS7dAP3XC6FCMJIavb?table=tblnJUIQLSu8zVcW&view=vewo99Mbw4)：[一亩三分地](https://www.1point3acres.com/bbs/thread-906889-1-1.html)
 
 ## [IELTS 要求](https://docs.google.com/document/d/1TSRanAzmMi2m4yNgXxyQ-PT4YHRsoowOv_jlCdUmlK4/edit)
 
