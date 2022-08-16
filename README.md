@@ -8,7 +8,7 @@
 
 ### [CMU CS院 - 9.6 开放](https://www.cs.cmu.edu/academics/graduate-admissions)
 
-### [CMU 工院 - 已开放 Spring)](https://gradadmissions.engineering.cmu.edu/apply/)
+### [CMU 工院 - 已开放 Spring](https://gradadmissions.engineering.cmu.edu/apply/)
 
 # 信息汇总
 
