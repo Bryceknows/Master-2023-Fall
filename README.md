@@ -6,6 +6,7 @@
 ### [CMU 工院 - 已开放 (Spring 2023)](https://gradadmissions.engineering.cmu.edu/apply/)
 
 # 选校
+### ECE@CMU
 
 # 信息汇总
 
