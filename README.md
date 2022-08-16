@@ -1,9 +1,15 @@
 # 申请链接
 
-### [UCLA - 9.12 开放](https://apply.grad.ucla.edu/apply/)
-### [UCB - 9.15 开放](https://gradapp.berkeley.edu/apply/)
-### [CMU CS院 - 9.6 开放](https://www.cs.cmu.edu/academics/graduate-admissions)
-### [CMU 工院 - 已开放 (Spring 2023)](https://gradadmissions.engineering.cmu.edu/apply/)
+## [UCLA - 9.12 开放](https://apply.grad.ucla.edu/apply/)
+
+## [UCB - 9.15 开放](https://gradapp.berkeley.edu/apply/)
+
+## [CMU CS院 - 9.6 开放](https://www.cs.cmu.edu/academics/graduate-admissions)
+
+### [MSCS@CMU](https://www.cs.cmu.edu/academics/graduate-admissions)
+[**GRE**：highly recommended； **IELTS**：7 (5 年内有效)](https://www.cs.cmu.edu/academics/application_instructions)
+
+## [CMU 工院 - 已开放 (Spring 2023)](https://gradadmissions.engineering.cmu.edu/apply/)
 
 # 信息汇总
 
