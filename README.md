@@ -5,7 +5,7 @@
 ### [CMU CS院 - 9.6 开放](https://www.cs.cmu.edu/academics/graduate-admissions)
 ### [CMU 工院 - 已开放 (Spring 2023)](https://gradadmissions.engineering.cmu.edu/apply/)
 
-### [选校](https://docs.google.com/document/d/1fTBdOP8FlBcw87ifhCzsFdFUApomaE3iUWPEY7fZPZk/edit)
+### [选校 Google Doc](https://docs.google.com/document/d/1fTBdOP8FlBcw87ifhCzsFdFUApomaE3iUWPEY7fZPZk/edit)
 
 # 信息汇总
 
