@@ -1,23 +1,21 @@
-## [选校 Google Doc](https://docs.google.com/document/d/1fTBdOP8FlBcw87ifhCzsFdFUApomaE3iUWPEY7fZPZk/edit)
+## [2023 Fall 各学校GRE要求](https://www.1point3acres.com/bbs/thread-906889-1-1.html)：[在线表格](https://cqhy89kw13.feishu.cn/sheets/shtcnhyQEYS7dAP3XC6FCMJIavb?table=tblnJUIQLSu8zVcW&view=vewo99Mbw4)
+
+## [CS Masters Application](https://csmsapp.github.io)：[在线表格](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
 
 # 申请链接
 
-### [UCLA - 9.12 开放](https://apply.grad.ucla.edu/apply/)
+### [UCLA - 9.12 开放](https://apply.grad.ucla.edu/apply/)  
+[雅思：豁免](https://grad.ucla.edu/admissions/english-requirements/)
 
 ### [UCB - 9.15 开放](https://gradapp.berkeley.edu/apply/)
 
 ### [CMU CS院 - 9.6 开放](https://www.cs.cmu.edu/academics/graduate-admissions)
-IELTS：7 (5 年内有效) 
+[雅思：7 (5 年内有效)](https://www.cs.cmu.edu/academics/application_instructions)
 
 ### [CMU 工院 - 已开放 Spring](https://gradadmissions.engineering.cmu.edu/apply/)
-IELTS：7 (R 6.5, L 6.5, S 6, W 6)
+[雅思：豁免](https://www.ece.cmu.edu/admissions/index.html)
 
 # 信息汇总
-
-### [2023 Fall 各学校GRE要求](https://www.1point3acres.com/bbs/thread-906889-1-1.html)：[在线表格](https://cqhy89kw13.feishu.cn/sheets/shtcnhyQEYS7dAP3XC6FCMJIavb?table=tblnJUIQLSu8zVcW&view=vewo99Mbw4)
-
-### [CS Masters Application](https://csmsapp.github.io)：[在线表格](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
-
 
 ## 项目介绍
 
