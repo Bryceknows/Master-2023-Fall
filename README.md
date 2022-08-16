@@ -1,5 +1,7 @@
 # 申请链接
 
+## [选校 Google Doc](https://docs.google.com/document/d/1fTBdOP8FlBcw87ifhCzsFdFUApomaE3iUWPEY7fZPZk/edit)
+
 ## [UCLA - 9.12 开放](https://apply.grad.ucla.edu/apply/)
 
 ## [UCB - 9.15 开放](https://gradapp.berkeley.edu/apply/)
@@ -9,8 +11,6 @@
 ## [CMU 工院 - 已开放 (Spring 2023)](https://gradadmissions.engineering.cmu.edu/apply/)
 
 # 信息汇总
-
-### [选校 Google Doc](https://docs.google.com/document/d/1fTBdOP8FlBcw87ifhCzsFdFUApomaE3iUWPEY7fZPZk/edit)
 
 ### [CS Masters Application](https://csmsapp.github.io)：[在线表格](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
 
