@@ -1,14 +1,14 @@
-# [选校 Google Doc](https://docs.google.com/document/d/1fTBdOP8FlBcw87ifhCzsFdFUApomaE3iUWPEY7fZPZk/edit)
+## [选校 Google Doc](https://docs.google.com/document/d/1fTBdOP8FlBcw87ifhCzsFdFUApomaE3iUWPEY7fZPZk/edit)
 
 # 申请链接
 
-## [UCLA - 9.12 开放](https://apply.grad.ucla.edu/apply/)
+### [UCLA - 9.12 开放](https://apply.grad.ucla.edu/apply/)
 
-## [UCB - 9.15 开放](https://gradapp.berkeley.edu/apply/)
+### [UCB - 9.15 开放](https://gradapp.berkeley.edu/apply/)
 
-## [CMU CS院 - 9.6 开放](https://www.cs.cmu.edu/academics/graduate-admissions)
+### [CMU CS院 - 9.6 开放](https://www.cs.cmu.edu/academics/graduate-admissions)
 
-## [CMU 工院 - 已开放 Spring)](https://gradadmissions.engineering.cmu.edu/apply/)
+### [CMU 工院 - 已开放 Spring)](https://gradadmissions.engineering.cmu.edu/apply/)
 
 # 信息汇总
 
