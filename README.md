@@ -2,7 +2,7 @@
 
 ## [CS Masters Application](https://csmsapp.github.io)：[在线表格](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
 
-# 申请链接
+## 申请链接
 
 ### [UCLA - 9.12 开放](https://apply.grad.ucla.edu/apply/)  
 [雅思：豁免](https://grad.ucla.edu/admissions/english-requirements/)
@@ -15,7 +15,6 @@
 ### [CMU 工院 - 已开放 Spring](https://gradadmissions.engineering.cmu.edu/apply/)
 [雅思：豁免](https://www.ece.cmu.edu/admissions/index.html)
 
-# 信息汇总
 
 ## 项目介绍
 
