@@ -7,7 +7,7 @@
 ## [CMU CS院 - 9.6 开放](https://www.cs.cmu.edu/academics/graduate-admissions)
 
 ### [MSCS@CMU](https://www.cs.cmu.edu/academics/graduate-admissions)
-[**GRE**：highly recommended； **IELTS**：7 (5 年内有效)](https://www.cs.cmu.edu/academics/application_instructions)
+[成绩要求：](https://www.cs.cmu.edu/academics/application_instructions)**GRE**：highly recommended； **IELTS**：7 (5 年内有效)
 
 ## [CMU 工院 - 已开放 (Spring 2023)](https://gradadmissions.engineering.cmu.edu/apply/)
 
