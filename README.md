@@ -10,7 +10,7 @@
 ### [UCB - 9.15 开放](https://gradapp.berkeley.edu/apply/)
 
 ### [CMU CS院 - 9.6 开放](https://www.cs.cmu.edu/academics/graduate-admissions)
-[雅思：7 (5 年内有效)](https://www.cs.cmu.edu/academics/application_instructions)
+[雅思：5 年内有效，总分7](https://www.cs.cmu.edu/academics/application_instructions)
 
 ### [CMU 工院 - 已开放 Spring](https://gradadmissions.engineering.cmu.edu/apply/)
 [雅思：豁免](https://www.ece.cmu.edu/admissions/index.html)
