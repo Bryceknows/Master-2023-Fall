@@ -1,6 +1,6 @@
-# 申请链接
+# [选校 Google Doc](https://docs.google.com/document/d/1fTBdOP8FlBcw87ifhCzsFdFUApomaE3iUWPEY7fZPZk/edit)
 
-## [选校 Google Doc](https://docs.google.com/document/d/1fTBdOP8FlBcw87ifhCzsFdFUApomaE3iUWPEY7fZPZk/edit)
+# 申请链接
 
 ## [UCLA - 9.12 开放](https://apply.grad.ucla.edu/apply/)
 
