@@ -5,13 +5,15 @@
 ### [CMU CS院 - 9.6 开放](https://www.cs.cmu.edu/academics/graduate-admissions)
 ### [CMU 工院 - 已开放 (Spring 2023)](https://gradadmissions.engineering.cmu.edu/apply/)
 
-# 参考信息
+# 选校
+
+# 信息汇总
 
 ### [CS Masters Application](https://csmsapp.github.io)：[在线表格](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
 
 ### [2023 Fall 各学校GRE要求](https://www.1point3acres.com/bbs/thread-906889-1-1.html)：[在线表格](https://cqhy89kw13.feishu.cn/sheets/shtcnhyQEYS7dAP3XC6FCMJIavb?table=tblnJUIQLSu8zVcW&view=vewo99Mbw4)
 
-## 选校
+## 项目介绍
 
 [SESV@CMU 介绍](https://www.1point3acres.com/bbs/thread-523072-1-1.html)
 
