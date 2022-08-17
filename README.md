@@ -14,6 +14,8 @@
 
 ### [CMU 工院 - 已开放 Spring](https://gradadmissions.engineering.cmu.edu/apply/)
 
+### [Columbia 工院 - 9月中旬开放](https://www.gradengineering.columbia.edu/graduate-admissions/apply)
+
 
 ## 项目介绍
 
