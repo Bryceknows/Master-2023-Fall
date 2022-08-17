@@ -19,7 +19,10 @@
 
 ## Programs
 ### Cornell
+[Master of Engineering](https://www.cs.cornell.edu/masters)：两个学期，要做 project
+[Master of Science](https://www.cs.cornell.edu/ms)：四个学期，要写 thesis
 
+### 项目介绍
 
 [SESV@CMU 介绍](https://www.1point3acres.com/bbs/thread-523072-1-1.html)
 
