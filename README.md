@@ -6,29 +6,37 @@
 
 ## Programs
 
-### [UCLA - MSCS](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/)
-[申请链接](https://apply.grad.ucla.edu/apply/) 9.12 开放 | [录取要求]() | [课程设置](https://www.cs.ucla.edu/graduate-requirements/)
+### [UCLA - MSCS](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/) 9.12 开放
+[申请链接](https://apply.grad.ucla.edu/apply/) | [录取要求](https://www.cs.ucla.edu/graduate-requirements/) | [课程设置]()
 
-### [UCB - EECS Meng]()
-[申请链接](https://gradapp.berkeley.edu/apply/) 9.15 开放 | [录取要求]() | [课程设置]()
+### [UCB - MEngEECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng) 9.15 开放
+[申请链接](https://gradapp.berkeley.edu/apply/) | [录取要求]() | [课程设置]()
 
-### [CMU - CS]()
-[申请链接](https://www.cs.cmu.edu/academics/graduate-admissions) 9.6 开放 | [录取要求]() | [课程设置]()
+### [CMU - ECE](https://www.ece.cmu.edu/academics/ms-se/index.html) 已开放 Spring
+[申请链接](https://gradadmissions.engineering.cmu.edu/apply/) | [录取要求](https://www.ece.cmu.edu/admissions/index.html) | [课程设置]() | 感觉实际上偏软件
 
-### [CMU - Eng]()
-[申请链接](https://gradadmissions.engineering.cmu.edu/apply/) 已开放 Spring | [录取要求]() | [课程设置]()
+### [Columbia - MSCS](https://www.cs.columbia.edu/education/ms/) 9月中旬开放
+[申请链接](https://www.gradengineering.columbia.edu/graduate-admissions/apply) | [录取要求]() | [课程设置](https://www.cs.columbia.edu/education/admissions8/#masters)
 
-### [Columbia - Eng]()
-[申请链接](https://www.gradengineering.columbia.edu/graduate-admissions/apply) 9月中旬开放 | [录取要求]() | [课程设置]()
+### [Cornell - MEngCS](https://www.cs.cornell.edu/masters)
+[申请链接](https://www.applyweb.com/cgi-bin/app?s=cornellg) | [录取要求](https://www.cs.cornell.edu/masters/apply) | [课程设置]() | 两个学期，要做 project
 
-### [Cornell - M.Eng](https://www.cs.cornell.edu/masters)
-[申请链接]() | [录取要求]() | [课程设置]() | 两个学期，要做 project
+### [Cornell - MSCS](https://www.cs.cornell.edu/ms)
+[申请链接](https://www.applyweb.com/cgi-bin/app?s=cornellg) | [录取要求](https://www.cs.cornell.edu/ms/admissions) | [课程设置]() | 四个学期，要写 thesis
 
-### [Cornell - M.S.](https://www.cs.cornell.edu/ms)
-[申请链接]() | [录取要求]() | [课程设置]() | 四个学期，要写 thesis
+### [Cornell Tech - MEngCS ](https://tech.cornell.edu/admissions/meng-application/) 8月中旬开放
+[申请链接]() | [录取要求](https://tech.cornell.edu/admissions/meng-application/) | [课程设置]()
+
+### [UMich - MSCSE](https://cse.engin.umich.edu/academics/graduate/masters-in-cse/)
+[申请链接](https://www.applyweb.com/cgi-bin/app?s=umgrad) | [录取要求](https://cse.engin.umich.edu/academics/graduate/admissions/apply/) | [课程设置]()
 
 ### [ - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
+
+### [CMU - CS院](https://www.cs.cmu.edu/academics/graduate-admissions)
+[申请链接]() 9.6 开放 | [录取要求](https://www.cs.cmu.edu/academics/application_instructions) | [课程设置]()
+
+
 
 ### [ - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
