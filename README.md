@@ -10,7 +10,7 @@
 [申请链接](https://apply.grad.ucla.edu/apply/) | [录取要求](https://www.cs.ucla.edu/graduate-requirements/) | [课程设置]() | 2 年，Capstone Plan 是授课型，Thesis Plan 是研究型
 
 ### [UCB - MEngEECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng) 9.15 开放
-[申请链接](https://gradapp.berkeley.edu/apply/) | [录取要求]() | [课程设置]()
+[申请链接](https://gradapp.berkeley.edu/apply/) | [录取要求]() | [课程设置]() | 1 年，授课型
 
 ### [CMU - ECE](https://www.ece.cmu.edu/academics/ms-se/index.html) 已开放 Spring
 [申请链接](https://gradadmissions.engineering.cmu.edu/apply/) | [录取要求](https://www.ece.cmu.edu/admissions/index.html) | [课程设置]() | 感觉实际上偏软件
