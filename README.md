@@ -33,7 +33,7 @@
 ### [ - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
 
-### [CMU - CS院](https://www.cs.cmu.edu/academics/graduate-admissions)
+### [CMU - CS院](https://www.cs.cmu.edu/academics/graduate-admissions) 项目太多太复杂了，慢慢看
 [申请链接]() 9.6 开放 | [录取要求](https://www.cs.cmu.edu/academics/application_instructions) | [课程设置]()
 
 
