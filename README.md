@@ -4,24 +4,35 @@
 
 ## [CS Masters Application](https://csmsapp.github.io)：[在线表格](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
 
-## 申请链接
-
-### [UCLA - 9.12 开放](https://apply.grad.ucla.edu/apply/)  
-
-### [UCB - 9.15 开放](https://gradapp.berkeley.edu/apply/)
-
-### [CMU CS院 - 9.6 开放](https://www.cs.cmu.edu/academics/graduate-admissions)
-
-### [CMU 工院 - 已开放 Spring](https://gradadmissions.engineering.cmu.edu/apply/)
-
-### [Columbia 工院 - 9月中旬开放](https://www.gradengineering.columbia.edu/graduate-admissions/apply)
-
-
 ## Programs
-### Cornell
-[Master of Engineering](https://www.cs.cornell.edu/masters)：两个学期，要做 project
 
-[Master of Science](https://www.cs.cornell.edu/ms)：四个学期，要写 thesis
+### [UCLA - MSCS](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/)
+[申请链接](https://apply.grad.ucla.edu/apply/) 9.12 开放 | [录取要求]() | [课程设置](https://www.cs.ucla.edu/graduate-requirements/)
+
+### [UCB - EECS Meng]()
+[申请链接](https://gradapp.berkeley.edu/apply/) 9.15 开放 | [录取要求]() | [课程设置]()
+
+### [CMU - CS]()
+[申请链接](https://www.cs.cmu.edu/academics/graduate-admissions) 9.6 开放 | [录取要求]() | [课程设置]()
+
+### [CMU - Eng]()
+[申请链接](https://gradadmissions.engineering.cmu.edu/apply/) 已开放 Spring | [录取要求]() | [课程设置]()
+
+### [Columbia - Eng]()
+[申请链接](https://www.gradengineering.columbia.edu/graduate-admissions/apply) 9月中旬开放 | [录取要求]() | [课程设置]()
+
+### [Cornell - M.Eng](https://www.cs.cornell.edu/masters)
+[申请链接]() | [录取要求]() | [课程设置]() | 两个学期，要做 project
+
+### [Cornell - M.S.](https://www.cs.cornell.edu/ms)
+[申请链接]() | [录取要求]() | [课程设置]() | 四个学期，要写 thesis
+
+### [ - ]()
+[申请链接]() | [录取要求]() | [课程设置]()
+
+### [ - ]()
+[申请链接]() | [录取要求]() | [课程设置]()
+
 
 ### 项目介绍
 
