@@ -13,7 +13,8 @@
 [申请链接](https://gradapp.berkeley.edu/apply/) | [录取要求]() | [课程设置]() | 1 年，授课型
 
 ### [CMU - SESV](https://www.ece.cmu.edu/academics/ms-se/index.html) 已开放 Spring
-[申请链接](https://gradadmissions.engineering.cmu.edu/apply/) | [录取要求](https://www.ece.cmu.edu/admissions/index.html) | [课程设置 (Standard)](https://www.ece.cmu.edu/academics/ms-se/standard-program.html) [课程设置 (Applied)](https://www.ece.cmu.edu/academics/ms-se/applied-program.html) | 1 年半，授课型，在 Silicon Valley campus，Applied Program 要求实习
+[申请链接](https://gradadmissions.engineering.cmu.edu/apply/) | [录取要求](https://www.ece.cmu.edu/admissions/index.html) | [课程设置 (Standard)](https://www.ece.cmu.edu/academics/ms-se/standard-program.html) [课程设置 (Applied)](https://www.ece.cmu.edu/academics/ms-se/applied-program.html) | 1 年半，授课型，Applied Program 要求实习
+地里经验贴：[1](https://www.1point3acres.com/bbs/thread-720775-1-1.html) [2](https://instant.1point3acres.com/thread/523072) [3](https://www.1point3acres.com/bbs/thread-466151-1-1.html) [4](https://www.1point3acres.com/bbs/thread-750772-9-1.html)
 
 ### [Columbia - MSCS](https://www.cs.columbia.edu/education/ms/) 9月中旬开放
 [申请链接](https://www.gradengineering.columbia.edu/graduate-admissions/apply) | [录取要求]() | [课程设置](https://www.cs.columbia.edu/education/admissions8/#masters)
