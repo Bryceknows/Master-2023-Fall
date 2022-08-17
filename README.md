@@ -12,8 +12,8 @@
 ### [UCB - MEngEECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng) 9.15 开放
 [申请链接](https://gradapp.berkeley.edu/apply/) | [录取要求]() | [课程设置]() | 1 年，授课型
 
-### [CMU - ECE](https://www.ece.cmu.edu/academics/ms-se/index.html) 已开放 Spring
-[申请链接](https://gradadmissions.engineering.cmu.edu/apply/) | [录取要求](https://www.ece.cmu.edu/admissions/index.html) | [课程设置]() | 感觉实际上偏软件
+### [CMU - MSSE](https://www.ece.cmu.edu/academics/ms-se/index.html) 已开放 Spring
+[申请链接](https://gradadmissions.engineering.cmu.edu/apply/) | [录取要求](https://www.ece.cmu.edu/admissions/index.html) | [课程设置 (standard)](https://www.ece.cmu.edu/academics/ms-se/standard-program.html) [课程设置 (applied)](https://www.ece.cmu.edu/academics/ms-se/applied-program.html) | 2 年，在 Silicon Valley campus，Applied Program 要求实习
 
 ### [Columbia - MSCS](https://www.cs.columbia.edu/education/ms/) 9月中旬开放
 [申请链接](https://www.gradengineering.columbia.edu/graduate-admissions/apply) | [录取要求]() | [课程设置](https://www.cs.columbia.edu/education/admissions8/#masters)
