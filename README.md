@@ -17,7 +17,7 @@
 地里经验贴：[1](https://www.1point3acres.com/bbs/thread-720775-1-1.html) [2](https://instant.1point3acres.com/thread/523072) [3](https://www.1point3acres.com/bbs/thread-466151-1-1.html) [4](https://www.1point3acres.com/bbs/thread-750772-9-1.html)
 
 ### [Columbia - MSCS](https://www.cs.columbia.edu/education/ms/) 9月中旬开放
-[申请链接](https://www.gradengineering.columbia.edu/graduate-admissions/apply) | [录取要求]() | [课程设置](https://www.cs.columbia.edu/education/admissions8/#masters)
+[申请链接](https://apply.engineering.columbia.edu/apply/) | [录取要求]() | [课程设置](https://www.cs.columbia.edu/education/admissions8/#masters)
 
 ### [Cornell - CS MEng](https://www.cs.cornell.edu/masters)
 [申请链接](https://www.applyweb.com/cgi-bin/app?s=cornellg) | [录取要求](https://www.cs.cornell.edu/masters/apply) | [课程设置]() | 1 年，授课型
