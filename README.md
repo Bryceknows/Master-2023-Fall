@@ -6,17 +6,29 @@
 
 ## Programs
 
-### [UCLA - MSCS](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/) 9.12 开放
+### [ - ]()
+[申请链接]() | [录取要求]() | [课程设置]()
+
+### [ - ]()
+[申请链接]() | [录取要求]() | [课程设置]()
+
+### [Havard - CSE](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering)
+[申请链接](https://apply.gsas.harvard.edu/apply/) | [录取要求](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering/how-apply) | [课程设置]()
+
+### [UPenn - CIS](https://gradadm.seas.upenn.edu/masters/computer-and-information-science/)
+[申请链接](https://www.applyweb.com/upenng/index.ftl) | [录取要求](https://gradadm.seas.upenn.edu/how-to-apply/#masters) | [课程设置]()
+
+### [UCLA - CS](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/) 9.12 开放
 [申请链接](https://apply.grad.ucla.edu/apply/) | [录取要求](https://www.cs.ucla.edu/graduate-requirements/) | [课程设置]() | 2 年，Capstone Plan 是授课型，Thesis Plan 是研究型
 
-### [UCB - EECS MEng](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng) 9.15 开放
+### [UCB - CS MEng](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng) 9.15 开放
 [申请链接](https://gradapp.berkeley.edu/apply/) | [录取要求]() | [课程设置]() | 1 年，授课型
 
 ### [CMU - SESV](https://www.ece.cmu.edu/academics/ms-se/index.html) 已开放 Spring
 [申请链接](https://gradadmissions.engineering.cmu.edu/apply/) | [录取要求](https://www.ece.cmu.edu/admissions/index.html) | [课程设置 (Standard)](https://www.ece.cmu.edu/academics/ms-se/standard-program.html) [课程设置 (Applied)](https://www.ece.cmu.edu/academics/ms-se/applied-program.html) | 1 年半，授课型，Applied Program 要求实习
 地里经验贴：[1](https://www.1point3acres.com/bbs/thread-720775-1-1.html) [2](https://instant.1point3acres.com/thread/523072) [3](https://www.1point3acres.com/bbs/thread-466151-1-1.html) [4](https://www.1point3acres.com/bbs/thread-750772-9-1.html)
 
-### [Columbia - MSCS](https://www.cs.columbia.edu/education/ms/) 9月中旬开放
+### [Columbia - CS](https://www.cs.columbia.edu/education/ms/) 9月中旬开放
 [申请链接](https://apply.engineering.columbia.edu/apply/) | [录取要求]() | [课程设置](https://www.cs.columbia.edu/education/admissions8/#masters)
 
 ### [Cornell - CS MEng](https://www.cs.cornell.edu/masters)
@@ -28,19 +40,15 @@
 ### [Cornell Tech - CS MEng](https://tech.cornell.edu/admissions/meng-application/) 8月中旬开放
 [申请链接]() | [录取要求](https://tech.cornell.edu/admissions/meng-application/) | [课程设置]()
 
-### [UMich - MSCSE](https://cse.engin.umich.edu/academics/graduate/masters-in-cse/)
+### [UMich - CSE](https://cse.engin.umich.edu/academics/graduate/masters-in-cse/)
 [申请链接](https://www.applyweb.com/cgi-bin/app?s=umgrad) | [录取要求](https://cse.engin.umich.edu/academics/graduate/admissions/apply/) | [课程设置]()
-
-### [ - ]()
-[申请链接]() | [录取要求]() | [课程设置]()
 
 ### [CMU - CS院](https://www.cs.cmu.edu/academics/graduate-admissions) 项目太多太复杂了，慢慢看
 [申请链接]() 9.6 开放 | [录取要求](https://www.cs.cmu.edu/academics/application_instructions) | [课程设置]()
 
 
 
-### [ - ]()
-[申请链接]() | [录取要求]() | [课程设置]()
+
 
 
 ### 项目介绍
