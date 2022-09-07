@@ -12,6 +12,18 @@
 ### [ - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
 
+### [ - ]()
+[申请链接]() | [录取要求]() | [课程设置]()
+
+### [ - ]()
+[申请链接]() | [录取要求]() | [课程设置]()
+
+### [ - ]()
+[申请链接]() | [录取要求]() | [课程设置]()
+
+### [UIUC - MCS](https://cs.illinois.edu/academics/graduate/professional-mcs/campus-master-computer-science)
+[申请链接](https://choose.illinois.edu/apply/) | [1.15](https://cs.illinois.edu/admissions/graduate/application-deadlines) | [录取要求](https://cs.illinois.edu/admissions/graduate/applications-process-requirements) | [课程设置](https://cs.illinois.edu/academics/graduate/ms-program)
+
 ### [UCSD - CSE](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
 [申请链接](https://connect.grad.ucsd.edu/apply/) | [12.21](https://cse.ucsd.edu/graduate/admissions/application-checklist) |[录取要求](https://cse.ucsd.edu/graduate/admissions/application-checklist) | [课程设置](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
 
