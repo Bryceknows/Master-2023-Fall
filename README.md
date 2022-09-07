@@ -12,8 +12,8 @@
 ### [ - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
 
-### [ - ]()
-[申请链接]() | [录取要求]() | [课程设置]()
+### [UCSD - CSE](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
+[申请链接](https://connect.grad.ucsd.edu/apply/) | [12.21](https://cse.ucsd.edu/graduate/admissions/application-checklist) |[录取要求](https://cse.ucsd.edu/graduate/admissions/application-checklist) | [课程设置](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
 
 ### [Brown - CS](https://graduateprograms.brown.edu/graduate-program/computer-science-scm)
 [申请链接](https://apply.professional.brown.edu/apply/) | [1.17](https://graduateprograms.brown.edu/graduate-program/computer-science-scm#admission) | [录取要求](https://graduateprograms.brown.edu/graduate-program/computer-science-scm#admission) | [课程设置]()
