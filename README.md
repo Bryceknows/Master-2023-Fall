@@ -15,8 +15,8 @@
 ### [ - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
 
-### [ - ]()
-[申请链接]() | [录取要求]() | [课程设置]()
+### [Brown - CS](https://graduateprograms.brown.edu/graduate-program/computer-science-scm)
+[申请链接](https://apply.professional.brown.edu/apply/) | [1.17](https://graduateprograms.brown.edu/graduate-program/computer-science-scm#admission) | [录取要求](https://graduateprograms.brown.edu/graduate-program/computer-science-scm#admission) | [课程设置]()
 
 ### [Yale - CS](https://cpsc.yale.edu/academics/graduate-program/master-science) 
 [申请链接](https://apply.grad.yale.edu/apply/) | [1.2](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines) | [录取要求]() | [课程设置]() | 据说GRE卡328
