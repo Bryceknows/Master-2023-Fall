@@ -9,11 +9,11 @@
 ### [ - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
 
-### [USC - ]()
-[申请链接]() | [录取要求]() | [课程设置]()
+### [USC - CS](https://www.cs.usc.edu/academic-programs/masters/computer-science-general/)
+[申请链接](https://usc.liaisoncas.com/applicant-ux/#/login) | [12.15](https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/) | [录取要求](https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/) | [课程设置]()
 
-### [NEU - ]()
-[申请链接]() | [录取要求]() | [课程设置]()
+### [NEU - CS](https://www.khoury.northeastern.edu/programs/computer-science-ms/)
+[申请链接](https://enroll.northeastern.edu/apply/#_ga=2.118015689.11053856.1662691776-2030625693.1662691776) | [录取要求](https://www.khoury.northeastern.edu/apply/masters-apply/) | [课程设置]()
 
 ### [NWU - CS](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/masters/)
 [申请链接](https://www.applyweb.com/nugrad/index.ftl) | [11.30](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#English) | [录取要求](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#English) | [课程设置]()
