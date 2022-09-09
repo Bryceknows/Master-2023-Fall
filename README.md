@@ -9,17 +9,17 @@
 ### [ - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
 
-### [ - ]()
+### [USC - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
 
-### [ - ]()
+### [NEU - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
 
-### [ - ]()
-[申请链接]() | [录取要求]() | [课程设置]()
+### [NWU - CS](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/masters/)
+[申请链接](https://www.applyweb.com/nugrad/index.ftl) | [11.30](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#English) | [录取要求](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#English) | [课程设置]()
 
-### [ - ]()
-[申请链接]() | [录取要求]() | [课程设置]()
+### [UCSB - CS](https://www.cs.ucsb.edu/index.php/education/graduate/masters-degree)
+[申请链接](https://www.graddiv.ucsb.edu/eapp/Login.aspx) | [录取要求](https://www.cs.ucsb.edu/index.php/education/graduate/how-to-apply) | [课程设置](https://www.cs.ucsb.edu/education/courses/graduate-courses-and-their-area-classifications)
 
 ### [UIUC - MCS](https://cs.illinois.edu/academics/graduate/professional-mcs/campus-master-computer-science)
 [申请链接](https://choose.illinois.edu/apply/) | [1.15](https://cs.illinois.edu/admissions/graduate/application-deadlines) | [录取要求](https://cs.illinois.edu/admissions/graduate/applications-process-requirements) | [课程设置](https://cs.illinois.edu/academics/graduate/ms-program)
