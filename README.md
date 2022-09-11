@@ -56,7 +56,7 @@
 [申请链接](https://apply.engineering.columbia.edu/apply/) | [录取要求]() | [课程设置](https://www.cs.columbia.edu/education/admissions8/#masters)
 
 ### [Cornell - CS MEng](https://www.cs.cornell.edu/masters)
-[申请链接](https://www.applyweb.com/cgi-bin/app?s=cornellg) | [录取要求](https://www.cs.cornell.edu/masters/apply) | [课程设置]() | 1 年，授课型
+[申请链接](https://www.applyweb.com/cornellg/index.ftl) | [录取要求](https://www.cs.cornell.edu/masters/apply) | [课程设置]() | 1 年，授课型
 
 ### [Cornell - MSCS](https://www.cs.cornell.edu/ms)
 [申请链接](https://www.applyweb.com/cgi-bin/app?s=cornellg) | [录取要求](https://www.cs.cornell.edu/ms/admissions) | [课程设置]() | 2 年，研究型
