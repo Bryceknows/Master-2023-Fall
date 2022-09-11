@@ -15,7 +15,7 @@
 ### [NEU - CS](https://www.khoury.northeastern.edu/programs/computer-science-ms/)
 [申请链接](https://enroll.northeastern.edu/apply/#_ga=2.118015689.11053856.1662691776-2030625693.1662691776) | [录取要求](https://www.khoury.northeastern.edu/apply/masters-apply/) | [课程设置]()
 
-### [NWU - CS](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/masters/)
+### [NWU - CS](https://www.applyweb.com/nugrad/index.ftl)
 [申请链接](https://www.applyweb.com/nugrad/index.ftl) | [11.30](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#English) | [录取要求](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#English) | [课程设置]()
 
 ### [UCSB - CS](https://www.cs.ucsb.edu/index.php/education/graduate/masters-degree)
