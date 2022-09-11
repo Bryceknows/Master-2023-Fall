@@ -68,7 +68,7 @@
 [申请链接](https://www.applyweb.com/cgi-bin/app?s=umgrad) | [录取要求](https://cse.engin.umich.edu/academics/graduate/admissions/apply/) | [课程设置]()
 
 ### [CMU - CS院](https://www.cs.cmu.edu/academics/graduate-admissions) 项目太多太复杂了，慢慢看
-[申请链接]() 9.6 开放 | [录取要求](https://www.cs.cmu.edu/academics/application_instructions) | [课程设置]()
+[申请链接](https://applygrad.cs.cmu.edu/apply/index.php?domain=1) ｜ [11.29](https://www.cs.cmu.edu/academics/graduate-admissions) | [录取要求](https://www.cs.cmu.edu/academics/application_instructions) | [课程设置]()
 
 
 
