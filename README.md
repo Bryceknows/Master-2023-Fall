@@ -1,8 +1,8 @@
 # [TODO ASAP](https://docs.qq.com/sheet/DUnR5WHJmVmNCSFJI?tab=BB08J2)
 
-## [GRE 要求](https://cqhy89kw13.feishu.cn/sheets/shtcnhyQEYS7dAP3XC6FCMJIavb?table=tblnJUIQLSu8zVcW&view=vewo99Mbw4)：[一亩三分地](https://www.1point3acres.com/bbs/thread-906889-1-1.html)
-
 ## [IELTS 要求](https://docs.google.com/document/d/1TSRanAzmMi2m4yNgXxyQ-PT4YHRsoowOv_jlCdUmlK4/edit)
+
+## [GRE 要求](https://cqhy89kw13.feishu.cn/sheets/shtcnhyQEYS7dAP3XC6FCMJIavb?table=tblnJUIQLSu8zVcW&view=vewo99Mbw4)：[一亩三分地](https://www.1point3acres.com/bbs/thread-906889-1-1.html)
 
 ## [CS Masters Application](https://csmsapp.github.io)：[在线表格](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?pli=1#gid=0)
 
