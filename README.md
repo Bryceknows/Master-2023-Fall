@@ -62,7 +62,7 @@
 [申请链接](https://www.applyweb.com/cgi-bin/app?s=cornellg) | [录取要求](https://www.cs.cornell.edu/ms/admissions) | [课程设置]() | 2 年，研究型
 
 ### [Cornell Tech - CS MEng](https://tech.cornell.edu/admissions/meng-application/) 8月中旬开放
-[申请链接]() | [录取要求](https://tech.cornell.edu/admissions/meng-application/) | [课程设置]()
+[申请链接](https://gradprofessional.cornell.edu/apply/) | [录取要求](https://tech.cornell.edu/admissions/meng-application/) | [课程设置]()
 
 ### [UMich - CSE](https://cse.engin.umich.edu/academics/graduate/masters-in-cse/)
 [申请链接](https://www.applyweb.com/cgi-bin/app?s=umgrad) | [录取要求](https://cse.engin.umich.edu/academics/graduate/admissions/apply/) | [课程设置]()
