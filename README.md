@@ -11,6 +11,11 @@
 ### [ - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
 
+
+### [CMU - SESV](https://www.ece.cmu.edu/academics/ms-se/index.html) 已开放 Spring
+[申请链接](https://gradadmissions.engineering.cmu.edu/apply/) | [录取要求](https://www.ece.cmu.edu/admissions/index.html) | [课程设置 (Standard)](https://www.ece.cmu.edu/academics/ms-se/standard-program.html) [课程设置 (Applied)](https://www.ece.cmu.edu/academics/ms-se/applied-program.html) | 1 年半，授课型，Applied Program 要求实习
+地里经验贴：[1](https://www.1point3acres.com/bbs/thread-720775-1-1.html) [2](https://instant.1point3acres.com/thread/523072) [3](https://www.1point3acres.com/bbs/thread-466151-1-1.html) [4](https://www.1point3acres.com/bbs/thread-750772-9-1.html)
+
 ### [UCLA - CS](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/)
 [申请链接](https://apply.grad.ucla.edu/apply/) | [录取要求](https://www.cs.ucla.edu/graduate-requirements/) | [课程设置]() | 2 年，Capstone Plan 是授课型，Thesis Plan 是研究型
 
@@ -19,15 +24,6 @@
 
 ### [UCSD - CSE](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
 [申请链接](https://connect.grad.ucsd.edu/apply/) | [12.21](https://cse.ucsd.edu/graduate/admissions/application-checklist) |[录取要求](https://cse.ucsd.edu/graduate/admissions/application-checklist) | [课程设置](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
-
-### [USC - CS](https://www.cs.usc.edu/academic-programs/masters/computer-science-general/)
-[申请链接](https://usc.liaisoncas.com/applicant-ux/#/login) | [12.15](https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/) | [录取要求](https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/) | [课程设置]()
-
-### [NEU - CS](https://www.khoury.northeastern.edu/programs/computer-science-ms/)
-[申请链接](https://enroll.northeastern.edu/apply/#_ga=2.118015689.11053856.1662691776-2030625693.1662691776) | [录取要求](https://www.khoury.northeastern.edu/apply/masters-apply/) | [课程设置]()
-
-### [NWU - CS](https://www.applyweb.com/nugrad/index.ftl)
-[申请链接](https://www.applyweb.com/nugrad/index.ftl) | [11.30](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#English) | [录取要求](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#English) | [课程设置]()
 
 ### [UCSB - CS](https://www.cs.ucsb.edu/index.php/education/graduate/masters-degree)
 [申请链接](https://www.graddiv.ucsb.edu/eapp/Login.aspx) | [录取要求](https://www.cs.ucsb.edu/index.php/education/graduate/how-to-apply) | [课程设置](https://www.cs.ucsb.edu/education/courses/graduate-courses-and-their-area-classifications)
@@ -53,10 +49,14 @@
 [申请链接](https://www.applyweb.com/upenng/index.ftl) | [录取要求](https://gradadm.seas.upenn.edu/how-to-apply/#masters) | [课程设置]()
 
 
+### [USC - CS](https://www.cs.usc.edu/academic-programs/masters/computer-science-general/)
+[申请链接](https://usc.liaisoncas.com/applicant-ux/#/login) | [12.15](https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/) | [录取要求](https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/) | [课程设置]()
 
-### [CMU - SESV](https://www.ece.cmu.edu/academics/ms-se/index.html) 已开放 Spring
-[申请链接](https://gradadmissions.engineering.cmu.edu/apply/) | [录取要求](https://www.ece.cmu.edu/admissions/index.html) | [课程设置 (Standard)](https://www.ece.cmu.edu/academics/ms-se/standard-program.html) [课程设置 (Applied)](https://www.ece.cmu.edu/academics/ms-se/applied-program.html) | 1 年半，授课型，Applied Program 要求实习
-地里经验贴：[1](https://www.1point3acres.com/bbs/thread-720775-1-1.html) [2](https://instant.1point3acres.com/thread/523072) [3](https://www.1point3acres.com/bbs/thread-466151-1-1.html) [4](https://www.1point3acres.com/bbs/thread-750772-9-1.html)
+### [NEU - CS](https://www.khoury.northeastern.edu/programs/computer-science-ms/)
+[申请链接](https://enroll.northeastern.edu/apply/#_ga=2.118015689.11053856.1662691776-2030625693.1662691776) | [录取要求](https://www.khoury.northeastern.edu/apply/masters-apply/) | [课程设置]()
+
+### [NWU - CS](https://www.applyweb.com/nugrad/index.ftl)
+[申请链接](https://www.applyweb.com/nugrad/index.ftl) | [11.30](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#English) | [录取要求](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#English) | [课程设置]()
 
 ### [Columbia - CS](https://www.cs.columbia.edu/education/ms/) 9月中旬开放
 [申请链接](https://apply.engineering.columbia.edu/apply/) | [录取要求]() | [课程设置](https://www.cs.columbia.edu/education/admissions8/#masters)
