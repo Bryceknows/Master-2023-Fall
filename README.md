@@ -13,11 +13,11 @@
 
 
 ### [CMU - SESV](https://www.ece.cmu.edu/academics/ms-se/index.html) 已开放 Spring
-[申请链接](https://gradadmissions.engineering.cmu.edu/apply/) | [录取要求](https://www.ece.cmu.edu/admissions/index.html) | [课程设置 (Standard)](https://www.ece.cmu.edu/academics/ms-se/standard-program.html) [课程设置 (Applied)](https://www.ece.cmu.edu/academics/ms-se/applied-program.html) | 1 年半，授课型，Applied Program 要求实习
+[申请链接](https://gradadmissions.engineering.cmu.edu/apply/) | 12.15 | [录取要求](https://www.ece.cmu.edu/admissions/index.html) | [课程设置 (Standard)](https://www.ece.cmu.edu/academics/ms-se/standard-program.html) [课程设置 (Applied)](https://www.ece.cmu.edu/academics/ms-se/applied-program.html) | 1 年半，授课型，Applied Program 要求实习
 地里经验贴：[1](https://www.1point3acres.com/bbs/thread-720775-1-1.html) [2](https://instant.1point3acres.com/thread/523072) [3](https://www.1point3acres.com/bbs/thread-466151-1-1.html) [4](https://www.1point3acres.com/bbs/thread-750772-9-1.html)
 
 ### [UCLA - CS](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/)
-[申请链接](https://apply.grad.ucla.edu/apply/) | [录取要求](https://www.cs.ucla.edu/graduate-requirements/) | [课程设置]() | 2 年，Capstone Plan 是授课型，Thesis Plan 是研究型
+[申请链接](https://apply.grad.ucla.edu/apply/) | 12.15 | [录取要求](https://www.cs.ucla.edu/graduate-requirements/) | [课程设置]() | 2 年，Capstone Plan 是授课型，Thesis Plan 是研究型
 
 ### [UCB - CS MEng](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng)
 [申请链接](https://gradapp.berkeley.edu/apply/) | [1.6](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng) | [录取要求]() | [课程设置]() | 1 年，授课型，[可延期至1年半](https://www.1point3acres.com/bbs/thread-876620-2-1.html)
