@@ -23,13 +23,13 @@
 [申请链接](https://gradapp.berkeley.edu/apply/) | [1.6](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng) | [录取要求]() | [课程设置]() | 1 年，授课型，[可延期至一年半](https://www.1point3acres.com/bbs/thread-876620-2-1.html)
 
 ### [UCSD - CSE](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
-[申请链接](https://connect.grad.ucsd.edu/apply/) | [12.21](https://cse.ucsd.edu/graduate/admissions/application-checklist) |[录取要求](https://cse.ucsd.edu/graduate/admissions/application-checklist) | [课程设置](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
+[申请链接](https://connect.grad.ucsd.edu/apply/) | [12.21](https://cse.ucsd.edu/graduate/admissions/application-checklist) |[录取要求](https://cse.ucsd.edu/graduate/admissions/application-checklist) | [课程设置](https://cse.ucsd.edu/graduate/degree-programs/ms-program) | 1 年半
 
 ### [UCSB - CS](https://www.cs.ucsb.edu/index.php/education/graduate/masters-degree)
 [申请链接](https://www.graddiv.ucsb.edu/eapp/Login.aspx) | [录取要求](https://www.cs.ucsb.edu/index.php/education/graduate/how-to-apply) | [课程设置](https://www.cs.ucsb.edu/education/courses/graduate-courses-and-their-area-classifications)
 
 ### [UIUC - MCS](https://cs.illinois.edu/academics/graduate/professional-mcs/campus-master-computer-science)
-[申请链接](https://choose.illinois.edu/apply/) | [1.15](https://cs.illinois.edu/admissions/graduate/application-deadlines) | [录取要求](https://cs.illinois.edu/admissions/graduate/applications-process-requirements) | [课程设置](https://cs.illinois.edu/academics/graduate/ms-program)
+[申请链接](https://choose.illinois.edu/apply/) | [1.15](https://cs.illinois.edu/admissions/graduate/application-deadlines) | [录取要求](https://cs.illinois.edu/admissions/graduate/applications-process-requirements) | [课程设置](https://cs.illinois.edu/academics/graduate/ms-program) | [1 年半](https://cs.illinois.edu/academics/graduate/professional-mcs/campus-master-computer-science)
 
 
 
