@@ -11,10 +11,10 @@
 ### [ - ]()
 [申请链接]() | [录取要求]() | [课程设置]()
 
-### [UCLA - CS](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/) 9.12 开放
+### [UCLA - CS](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/)
 [申请链接](https://apply.grad.ucla.edu/apply/) | [录取要求](https://www.cs.ucla.edu/graduate-requirements/) | [课程设置]() | 2 年，Capstone Plan 是授课型，Thesis Plan 是研究型
 
-### [UCB - CS MEng](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng) 9.15 开放
+### [UCB - CS MEng](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng)
 [申请链接](https://gradapp.berkeley.edu/apply/) | [1.6](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng) | [录取要求]() | [课程设置]() | 1 年，授课型，[可延期至一年半](https://www.1point3acres.com/bbs/thread-876620-2-1.html)
 
 ### [UCSD - CSE](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
