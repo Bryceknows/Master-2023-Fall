@@ -76,7 +76,7 @@
 ### [CMU - CS院](https://www.cs.cmu.edu/academics/graduate-admissions) 项目太多太复杂了，慢慢看
 [申请链接](https://applygrad.cs.cmu.edu/apply/index.php?domain=1) | [11.29](https://www.cs.cmu.edu/academics/graduate-admissions) | [录取要求](https://www.cs.cmu.edu/academics/application_instructions) | [课程设置]()
 
-
+### [WISC - PMP](https://www.cs.wisc.edu/graduate/professional-masters-program/)
 
 
 
