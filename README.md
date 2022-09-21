@@ -43,7 +43,7 @@
 [申请链接](https://gradapp.gatech.edu/apply/) | [2.1](https://www.cc.gatech.edu/ms-computer-science-admission-requirements) | [录取要求]() | [课程设置]()
 
 ### [Havard - CSE](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering)
-[申请链接](https://apply.gsas.harvard.edu/apply/) | [录取要求](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering/how-apply) | [课程设置]()
+[申请链接](https://apply.gsas.harvard.edu/apply/) | [12.1](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering/how-apply) | [录取要求](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering/how-apply) | [课程设置]()
 
 ### [UPenn - CIS](https://gradadm.seas.upenn.edu/masters/computer-and-information-science/)
 [申请链接](https://www.applyweb.com/upenng/index.ftl) | [录取要求](https://gradadm.seas.upenn.edu/how-to-apply/#masters) | [课程设置]()
