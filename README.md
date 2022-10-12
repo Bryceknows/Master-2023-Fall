@@ -39,7 +39,7 @@
 ### [Yale - CS](https://cpsc.yale.edu/academics/graduate-program/master-science) 
 [申请链接](https://apply.grad.yale.edu/apply/) | [1.2](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines) | [录取要求]() | [课程设置]() | 据说GRE卡328
 
-### [GaTech - CS](https://www.cc.gatech.edu/ms-computer-science-admission-requirements)
+### [GaTech - CS](https://www.cc.gatech.edu/index.php/degree-programs/master-science-computer-science)
 [申请链接](https://gradapp.gatech.edu/apply/) | [2.1](https://www.cc.gatech.edu/ms-computer-science-admission-requirements) | [录取要求]() | [课程设置]()
 
 ### [Havard - CSE](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering)
